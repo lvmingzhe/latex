@@ -16,10 +16,7 @@
 
 [https://github.com/getlantern/lantern](https://github.com/getlantern/lantern)
 
-如果你是windows系统，直接点击[这里Windows7及以上 Windows 7+](https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe)就可以下载。无需注册，直接使用。安装启动后界面如下所示：
-
-![无需注册，直接使用](https://img-blog.csdnimg.cn/20210126214658964.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTQwNDU5Nw==,size_16,color_FFFFFF,t_70)
-
+如果你是windows系统，直接点击[这里Windows7及以上 Windows 7+](https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe)就可以下载。无需注册，直接使用。
 如果想断开蓝灯，在任务栏蓝灯图标上右键单击断开，图标变灰色之后就不翻了。建议访问国内网站的时候断开蓝灯，这样不影响访问国内网站的速度。
 ## 2. ikuuu
 这个平台也可以，但是前几天挂掉了，需要注册。
@@ -79,9 +76,6 @@
 可以帮助你快速地绘制出函数图像，免去打开matlab画曲线的烦恼
 
 [https://zh.numberempire.com/graphingcalculator.php](https://zh.numberempire.com/graphingcalculator.php?functions=log%28x%29,sqrt%28x%29,sin%28x%29,1/x,x%5E2&xmin=-1.256219&xmax=4.603156&ymin=-0.826319&ymax=3.079935&var=x)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210126223726457.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTQwNDU5Nw==,size_16,color_FFFFFF,t_70)
-
 
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
