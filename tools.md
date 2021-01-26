@@ -9,8 +9,8 @@
 工欲善其事必先利其器，这篇博客教你使用科研过程中常见软件工具，提高科研效率。
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
-# 一、FanQiang工具
-fq软件千千万，但墙也不断地在升级。经常会出现以前能用的方法现在失效了，所以遇到翻不过的时候不要着急，换条路子没准就管用。
+# 一、翻墙工具
+翻墙软件千千万，但墙也不断地在升级。经常会出现以前能用的方法现在失效了，所以遇到翻不过的时候不要着急，换条路子没准就管用。
 
 ## 1. 蓝灯
 
@@ -74,9 +74,6 @@ fq软件千千万，但墙也不断地在升级。经常会出现以前能用的
 [https://webdemo.myscript.com/views/math/index.html#](https://webdemo.myscript.com/views/math/index.html#)
 
 它的优点是直接使用鼠标手画公式，实时生成latex代码甚至函数图像！
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2021012622404823.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTQwNDU5Nw==,size_16,color_FFFFFF,t_70)
-
 
 ## 4. 在线函数图像绘制工具
 可以帮助你快速地绘制出函数图像，免去打开matlab画曲线的烦恼
