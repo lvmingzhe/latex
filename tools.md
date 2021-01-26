@@ -31,6 +31,10 @@
 ## 1.谷歌学术
 [https://scholar.google.com/](https://scholar.google.com/)
 
+附一条：
+添加latex参考文献的方法，搜索paper题目，点击cite按钮，选择bibtex，将全部信息复制后，粘贴到在线latex网站的bib文件里。
+使用方法：引用的时候在正文里打上 \cite{文章缩写代号}
+
 ## 2. arxiv论文预印本网站
 这个网站主要是论文作者们挂自己即将要投稿的paper，基本上理工科最新的科研进展，第一手paper草稿在这上都可以找到。
 
@@ -55,6 +59,8 @@
 [https://www.mendeley.com/?interaction_required=true](https://www.mendeley.com/?interaction_required=true)
 
 # 四. 论文写作工具
+latex是一种学术论文写作工具，其优点是将内容脱离模板，使写作者可以专注到文章内容的创作中，简化公式编辑，参考文献添加删除的操作，比word写作效率要高很多。
+缺点是需要一点编程基础，新手上手需要一段时间的适应。
 ## 1. 在线 latex 写作网站（国内版）
  该网站服务器在北京，访问速度快且稳定。缺点是由于缺少review功能，导致多人协同写作功能弱。如果是一个人写作，且在家上网的话，强烈推荐。
 
