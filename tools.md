@@ -87,6 +87,10 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 [https://www.latexlive.com/##](https://www.latexlive.com/##)
 
+第三个LaTeX公式编辑器，著名的Mathpix Snip.截图功能强大，但需要本地安装。
+
+[https://mathpix.com/](https://mathpix.com/)
+
 ## 4. 在线函数图像绘制工具
 可以帮助你快速地绘制出函数图像，免去打开matlab画曲线的烦恼
 
