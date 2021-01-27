@@ -26,6 +26,11 @@
 ## 3. Google Chrome G-helper
 可以在chrome 浏览器应用市场里直接搜索Ghelper，有免费流量，但是不太推荐用，很难卸载。
 
+## 4. V2Ray 
+
+这个工具较为高阶，V2Ray 是一个与 Shadowsocks 类似的代理软件，功能更强大，配置复杂，抗干扰能力强，突破防火墙封锁能力强。
+
+[https://iyideng.me/black-technology/cgfw/v2ray-vmess-vless.html](https://iyideng.me/black-technology/cgfw/v2ray-vmess-vless.html)
 
 # 二、文献检索工具
 ## 1.谷歌学术
@@ -83,6 +88,52 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 [https://zh.numberempire.com/graphingcalculator.php](https://zh.numberempire.com/graphingcalculator.php?functions=log%28x%29,sqrt%28x%29,sin%28x%29,1/x,x%5E2&xmin=-1.256219&xmax=4.603156&ymin=-0.826319&ymax=3.079935&var=x)
 
+## 5. 在线英文语法检查工具 Grammarly
+
+免费的英文语法检查工具，对常见的冠词错误，单复数错误，单词拼写错误，标点符号错误，时态错误等均可检查。有两种使用方法，小段的英文可以用百度翻译+grammarly插件进行检查。大段的英文可以直接复制到grammarly官网进行全文检查。
+
+[https://www.grammarly.com/](https://www.grammarly.com/)
+
+# 四. 大文件传输工具
+
+在科研过程中，我们经常需要传输数据集或者大文件，使用U盘或移动硬盘拷贝比较麻烦。百度网盘的龟速又难以忍受，这个时候就需要快速传输大文件的网站了。
+
+## 1. 文叔叔
+无需注册，传文件只需要两步：上传，发送。
+
+[https://www.wenshushu.cn/](https://www.wenshushu.cn/)
+
+## 2. 奶牛快传
+
+与前者类似，操作非常简单。
+[https://cowtransfer.com/](https://cowtransfer.com/)
+
+## 3.百度网盘下载工具PCS
+
+有时候其他人用百度网盘发来的链接，用BaiduPCS-Go下载的话速度还是会快很多。我在linux服务器上命令行模式用过，配置不算太麻烦。
+[https://github.com/felixonmars/BaiduPCS-Go](https://github.com/felixonmars/BaiduPCS-Go)
+
+如果充百度超级会员的话，建议在每年的11月份百度网盘周年庆的时候，价格大概也就170元/年。我用超级会员下载速度大概在10MB/S。
+
+# 五. 远程及日常办公软件
+
+## 1. Teamviewer
+
+以前也用过向日葵，anydesk，最后还是都不如teamviewer.
+
+[https://www.teamviewer.com/en/download/windows/](https://www.teamviewer.com/en/download/windows/)
+
+唯一的问题就是容易被判定为商用，一般改一下mac地址就好了。下边这条是改mac的教程。
+[www.cnblogs.com/wuhairui/p/1092](www.cnblogs.com/wuhairui/p/1092)
+
+## 2. Office
+
+- Word
+- PPT
+- EXCEL
+- VISIO
+
+常用三件套 + 矢量化作图工具visio 正版激活只需要十几二十元统统可以在淘宝买到，链接就不放了。
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
