@@ -125,16 +125,12 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 唯一的问题就是容易被判定为商用，一般改一下MAC地址就好了。下边是改MAC的教程。
 
-1.关闭TeamViewer。
-2.开始 > 运行，输入 %appdata%，删除TeamViewer的文件夹。
-3.开始 > 运行，输入 regedit；
-删除 HKEY_LOCAL_MACHINE\SOFTWARE\ 之下的 TeamViewer；
-删除 HKEY_CURRENT_USER\SOFTWARE\ 之下的 TeamViewer；
-4.开始 > 运行，输入 cmd，输入 ipconfig /all ，查看本地网卡的MAC地址
-5.控制面板 > 网络和Internet> 网络和共享中心 > 更改适配器设置 > 本地连接/无线网卡;
-单击右键 > 属性 > Microsoft 网络客户端 > 配置 > 高级；
-在数值栏输入一个和上文相近的MAC地址或随意12位数字字符串，点确定保存。
-重启电脑，你会发现你的 TeamViewer ID 已改变。成功！
+1. 关闭TeamViewer。
+2. 开始 > 运行，输入 %appdata%，删除TeamViewer的文件夹。
+3. 开始 > 运行，输入 regedit；删除 HKEY_LOCAL_MACHINE\SOFTWARE\ 之下的 TeamViewer；删除 HKEY_CURRENT_USER\SOFTWARE\ 之下的 TeamViewer；
+4. 开始 > 运行，输入 cmd，输入 ipconfig /all ，查看本地网卡的MAC地址
+5. 控制面板 > 网络和Internet> 网络和共享中心 > 更改适配器设置 > 本地连接/无线网卡;单击右键 > 属性 > Microsoft 网络客户端 > 配置 > 高级；在数值栏输入一个和上文相近的MAC地址或随意12位数字字符串，点确定保存。
+6. 重启电脑，你会发现你的 TeamViewer ID 已改变。成功！
 
 
 ## 2. Office
