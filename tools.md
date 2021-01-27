@@ -146,6 +146,12 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 常用三件套 + 矢量化作图工具VISIO 正版激活只需要十几二十元统统可以在淘宝买到，链接就不放了。
 
+## 3. 在线视频下载器
+
+下载youtube的视频很方便
+
+[https://en.savefrom.net/18/](https://en.savefrom.net/18/)
+
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
 # 总结
