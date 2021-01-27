@@ -17,18 +17,18 @@
 [https://github.com/getlantern/lantern](https://github.com/getlantern/lantern)
 
 如果你是windows系统，直接点击[这里Windows7及以上 Windows 7+](https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe)就可以下载。无需注册，直接使用。
-如果想断开蓝灯，在任务栏蓝灯图标上右键单击断开，图标变灰色之后就不翻了。建议访问国内网站的时候断开蓝灯，这样不影响访问国内网站的速度。
+如果想断开蓝灯，在任务栏蓝灯图标上右键单击断开。访问国内网站的时候可断开。
 ## 2. ikuuu
-这个平台也可以，但是前几天挂掉了，需要注册。
+这个平台也可以，但是偶尔会挂掉，需要注册。
 
 **[https://ikuuu.co/auth/login#](https://ikuuu.co/auth/login#)**
 
-## 3. Google Chrome G-helper
-可以在chrome 浏览器应用市场里直接搜索Ghelper，有免费流量，但是不太推荐用，很难卸载。
+## 3. Google Chrome Ghelper
+可以在chrome 浏览器应用市场里直接搜索Ghelper，有免费流量，但是不太推荐用，有时候会挂，和V2Ray有冲突很难卸载。
 
 ## 4. V2Ray 
 
-这个工具较为高阶，V2Ray 是一个与 Shadowsocks 类似的代理软件，功能更强大，配置复杂，抗干扰能力强，突破防火墙封锁能力强。
+这个较为高阶，V2Ray 是一个与 Shadowsocks 类似的代理软件，功能更强大，配置复杂，抗干扰能力强，突破防火墙封锁能力强。
 
 [https://iyideng.me/black-technology/cgfw/v2ray-vmess-vless.html](https://iyideng.me/black-technology/cgfw/v2ray-vmess-vless.html)
 
@@ -55,6 +55,7 @@
 
 中文文献下载5730图书馆：
 [http://www.5730.cn/](http://www.5730.cn/)
+
 5730图书馆的淘宝店铺：
 [https://item.taobao.com/item.htm?id=585677237939](https://item.taobao.com/item.htm?id=585677237939)
 
@@ -67,21 +68,19 @@
 latex是一种学术论文写作工具，其优点是将内容脱离模板，使写作者可以专注到文章内容的创作中，简化公式编辑，参考文献添加删除的操作，比word写作效率要高很多。
 缺点是需要一点编程基础，新手上手需要一段时间的适应。
 ## 1. 在线 latex 写作网站（国内版）
- 该网站服务器在北京，访问速度快且稳定。缺点是由于缺少review功能，导致多人协同写作功能弱。如果是一个人写作，且在家上网的话，强烈推荐。
+该网站服务器在北京，访问速度快且稳定。缺点是由于缺少review功能，导致多人协同写作功能弱。如果是一个人写作，且在家上网的话，强烈推荐。
 
 [http://raisepub.com/](http://raisepub.com/)
 
 ## 2. 在线 latex 写作网站：overleaf（美国版）
- 该网站服务器在美国，访问速度慢不稳定，但是北京市科技网访问还是很稳定的。优点是具有review功能，多人协同写作功能强。如果是团队写作，就推荐这个。
+该网站服务器在美国，访问速度慢不稳定，但是北京市科技网访问还是很稳定的。优点是具有review功能，多人协同写作功能强。团队写作推荐。
 
 [https://www.overleaf.com/](https://www.overleaf.com/)
 
 ## 3. 在线 latex 公式编辑器
-我最喜欢的在线手写 latex 公式编辑器：
+我最喜欢的在线手写 latex 公式编辑器。它的优点是直接使用鼠标手画公式，实时生成latex代码甚至函数图像！
 
 [https://webdemo.myscript.com/views/math/index.html#](https://webdemo.myscript.com/views/math/index.html#)
-
-它的优点是直接使用鼠标手画公式，实时生成latex代码甚至函数图像！
 
 另一个很专业的LaTeX公式编辑器，图片识别强大，扣别人的公式很方便:
 
@@ -102,6 +101,14 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 [https://www.grammarly.com/](https://www.grammarly.com/)
 
+## 6. 在线绘图网站
+
+diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片可存在GitHub上。
+
+[https://www.diagrams.net/](https://www.diagrams.net/)
+
+画一般论文插图的话,PPT都够用，画矢量图VISIO更专业一些。
+
 # 四. 大文件传输工具
 
 在科研过程中，我们经常需要传输数据集或者大文件，使用U盘或移动硬盘拷贝比较麻烦。百度网盘的龟速又难以忍受，这个时候就需要快速传输大文件的网站了。
@@ -114,11 +121,13 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 ## 2. 奶牛快传
 
 与前者类似，操作非常简单。
+
 [https://cowtransfer.com/](https://cowtransfer.com/)
 
 ## 3.百度网盘下载工具PCS
 
 有时候其他人用百度网盘发来的链接，用BaiduPCS-Go下载的话速度还是会快很多。我在linux服务器上命令行模式用过，配置不算太麻烦。
+
 [https://github.com/felixonmars/BaiduPCS-Go](https://github.com/felixonmars/BaiduPCS-Go)
 
 如果充百度超级会员的话，建议在每年的11月份百度网盘周年庆的时候，价格大概也就170元/年。我用超级会员下载速度大概在10MB/S。
