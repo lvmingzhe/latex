@@ -101,6 +101,10 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 [https://www.grammarly.com/](https://www.grammarly.com/)
 
+ps:查询英语词组常用搭配的网站(thanks 王乐源)
+
+[https://linggle.com/]( https://linggle.com/)
+
 ## 6. 在线绘图网站
 
 diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片可存在GitHub上。
