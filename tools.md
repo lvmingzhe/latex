@@ -125,7 +125,7 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 唯一的问题就是容易被判定为商用，一般改一下mac地址就好了。下边这条是改mac的教程。
 
-[https://www.cnblogs.com/wuhairui/p/1092](https://www.cnblogs.com/wuhairui/p/1092)
+[http://www.cnblogs.com/wuhairui/p/1092](http://www.cnblogs.com/wuhairui/p/1092)
 
 ## 2. Office
 
