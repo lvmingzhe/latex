@@ -1,6 +1,8 @@
 # latex 论文写作相关
 
-github图片显示不出来的话
+tools.md文件里边写的是科研写作常用小工具
+
+另外：github图片显示不出来的话
 
 将下边代码复制粘贴到c:/windows/system32/drivers/etc/hosts文件末尾
 
