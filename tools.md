@@ -1,6 +1,36 @@
 
 @[ROSE](文章目录)
-
+- [前言](#前言)
+- [一、翻墙工具](#一翻墙工具)
+  - [1. 蓝灯](#1-蓝灯)
+  - [2. ikuuu](#2-ikuuu)
+  - [3. Google Chrome Ghelper](#3-google-chrome-ghelper)
+  - [4. V2Ray](#4-v2ray)
+- [二、文献检索工具](#二文献检索工具)
+  - [1.谷歌学术](#1谷歌学术)
+  - [2. arxiv论文预印本网站](#2-arxiv论文预印本网站)
+  - [3. SCI-HUB](#3-sci-hub)
+  - [4. 中文文献](#4-中文文献)
+- [三. 文献管理工具](#三-文献管理工具)
+  - [1. Mendeley](#1-mendeley)
+- [四. 论文写作工具](#四-论文写作工具)
+  - [1. 在线 latex 写作网站（国内版）](#1-在线-latex-写作网站国内版)
+  - [2. 在线 latex 写作网站：overleaf（美国版）](#2-在线-latex-写作网站overleaf美国版)
+  - [3. 在线 latex 公式编辑器](#3-在线-latex-公式编辑器)
+  - [4. 在线函数图像绘制工具](#4-在线函数图像绘制工具)
+  - [5. 在线英文语法检查工具 Grammarly](#5-在线英文语法检查工具-grammarly)
+  - [6. 在线绘图网站](#6-在线绘图网站)
+  - [7. 写作搭配](#7-写作搭配)
+  - [8. 英语论文词句模板库](#8-英语论文词句模板库)
+- [四. 大文件传输工具](#四-大文件传输工具)
+  - [1. 文叔叔](#1-文叔叔)
+  - [2. 奶牛快传](#2-奶牛快传)
+  - [3.百度网盘下载工具PCS](#3百度网盘下载工具pcs)
+- [五. 远程及日常办公软件](#五-远程及日常办公软件)
+  - [1. Teamviewer](#1-teamviewer)
+  - [2. Office](#2-office)
+  - [3. 在线视频下载器](#3-在线视频下载器)
+- [总结](#总结)
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
@@ -51,13 +81,13 @@
 [https://sci-hub.se/](https://sci-hub.se/)
 
 ## 4. 中文文献
-如果你不在高校内网，但又需要下载中文参考文献，比如中国知网或者万方数据库。那么这家有淘宝店的可以一试，我用了好几年还算稳定，收费从每月5块也涨到10块了。
+如果你不在高校内网，但又需要下载中文参考文献，比如中国知网或者万方数据库。那么这两家网站可以一试，还算稳定，收费每月10块。
 
 中文文献下载5730图书馆：
 [http://www.5730.cn/](http://www.5730.cn/)
 
-5730图书馆的淘宝店铺：
-[https://item.taobao.com/item.htm?id=585677237939](https://item.taobao.com/item.htm?id=585677237939)
+论文驿站
+[https://www.lunwenyizhan.com/](https://www.lunwenyizhan.com/)
 
 # 三. 文献管理工具
 ## 1. Mendeley
@@ -101,10 +131,6 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 [https://www.grammarly.com/](https://www.grammarly.com/)
 
-ps:查询英语词组常用搭配的网站(thanks 王乐源)
-
-[https://linggle.com/]( https://linggle.com/)
-
 ## 6. 在线绘图网站
 
 diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片可存在GitHub上。
@@ -112,6 +138,20 @@ diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片
 [https://www.diagrams.net/](https://www.diagrams.net/)
 
 画一般论文插图的话,PPT都够用，画矢量图VISIO更专业一些。
+
+## 7. 写作搭配
+
+查询英语词组常用搭配的网站(thanks 王乐源)
+
+[https://linggle.com/]( https://linggle.com/)
+
+## 8. 英语论文词句模板库
+
+收录了丰富的学术写作短语、句型，并且罗列了超多例句，可以很好规范英文论文表达！
+
+对于论文的每一部分都有细致的范例，比如：前言、参考文献、研究方法、结果阐述、研讨、写作结论等。
+
+[http://www.phrasebank.manchester.ac.uk/](http://www.phrasebank.manchester.ac.uk/)
 
 # 四. 大文件传输工具
 

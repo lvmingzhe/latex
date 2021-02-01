@@ -1,6 +1,7 @@
 # latex 论文写作相关
 
-tools.md文件里边写的是科研写作常用小工具
+[tools.md](https://github.com/lvmingzhe/latex/blob/main/tools.md)文件里边写的是科研写作常用小工具.
+
 
 另外：github图片显示不出来的话
 
