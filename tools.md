@@ -13,6 +13,7 @@
   - [4. 中文文献](#4-中文文献)
 - [三. 文献管理工具](#三-文献管理工具)
   - [1. Mendeley](#1-mendeley)
+  - [2. Zotero](#2-zotero)
 - [四. 论文写作工具](#四-论文写作工具)
   - [1. 在线 latex 写作网站（国内版）](#1-在线-latex-写作网站国内版)
   - [2. 在线 latex 写作网站：overleaf（美国版）](#2-在线-latex-写作网站overleaf美国版)
@@ -91,8 +92,13 @@
 
 # 三. 文献管理工具
 ## 1. Mendeley
-免费开源的一个参考文献管理神器
-[https://www.mendeley.com/?interaction_required=true](https://www.mendeley.com/?interaction_required=true)
+免费开源的文献管理工具，支持全文pdf搜索，在线同步所有文档，空间2GB
+[https://www.mendeley.com/](https://www.mendeley.com/?interaction_required=true)
+
+## 2. Zotero
+免费开源的文献管理工具
+Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+[https://www.zotero.org/](https://www.zotero.org/)
 
 # 四. 论文写作工具
 latex是一种学术论文写作工具，其优点是将内容脱离模板，使写作者可以专注到文章内容的创作中，简化公式编辑，参考文献添加删除的操作，比word写作效率要高很多。
