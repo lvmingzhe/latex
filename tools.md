@@ -14,7 +14,7 @@
 - [三. 文献管理工具](#三-文献管理工具)
   - [1. Mendeley](#1-mendeley)
   - [2. Zotero](#2-zotero)
-  - [3.PaperDownload & titleAsPDFName](#3paperdownload--titleaspdfname)
+  - [3.arxiv网站pdf自动改名工具](#3arxiv网站pdf自动改名工具)
 - [四. 论文写作工具](#四-论文写作工具)
   - [1. 在线 latex 写作网站（国内版）](#1-在线-latex-写作网站国内版)
   - [2. 在线 latex 写作网站：overleaf（美国版）](#2-在线-latex-写作网站overleaf美国版)
@@ -101,13 +101,17 @@
 Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 [https://www.zotero.org/](https://www.zotero.org/)
 
-## 3.PaperDownload & titleAsPDFName
-下载pdf论文并自动用文章标题重命名文件，点击左上角的save按钮或按 Ctrl+S 触发下载.
-This script works on opened pdf pages, e.g. arxiv.org/pdf/xxx.pdf.
+## 3.arxiv网站pdf自动改名工具
+功能：下载pdf论文并自动用文章标题重命名文件，点击左上角的save按钮或按 Ctrl+S 触发下载.
 Currently support pdf pages in arxiv.org, aclweb.org/anthology/, proceedings.mlr.press，openaccess.thecvf.com, openreview.net, and ieeexplore.ieee.org.
 
+1. 安装一个用户脚本管理器
+[https://greasyfork.org/zh-CN](https://greasyfork.org/zh-CN)
+
+2. 安装一个用户脚本
 [https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname](https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname)
 
+3. 上arxiv网站使用save功能就可以自动改名保存
 ![左上角save](./img/autosave.png)
 
 # 四. 论文写作工具
