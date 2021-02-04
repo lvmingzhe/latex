@@ -14,6 +14,7 @@
 - [三. 文献管理工具](#三-文献管理工具)
   - [1. Mendeley](#1-mendeley)
   - [2. Zotero](#2-zotero)
+  - [3.PaperDownload & titleAsPDFName](#3paperdownload--titleaspdfname)
 - [四. 论文写作工具](#四-论文写作工具)
   - [1. 在线 latex 写作网站（国内版）](#1-在线-latex-写作网站国内版)
   - [2. 在线 latex 写作网站：overleaf（美国版）](#2-在线-latex-写作网站overleaf美国版)
@@ -99,6 +100,15 @@
 免费开源的文献管理工具
 Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 [https://www.zotero.org/](https://www.zotero.org/)
+
+## 3.PaperDownload & titleAsPDFName
+下载pdf论文并自动用文章标题重命名文件，点击左上角的save按钮或按 Ctrl+S 触发下载.
+This script works on opened pdf pages, e.g. arxiv.org/pdf/xxx.pdf.
+Currently support pdf pages in arxiv.org, aclweb.org/anthology/, proceedings.mlr.press，openaccess.thecvf.com, openreview.net, and ieeexplore.ieee.org.
+
+[https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname](https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname)
+
+![左上角save](./img/autosave.png)
 
 # 四. 论文写作工具
 latex是一种学术论文写作工具，其优点是将内容脱离模板，使写作者可以专注到文章内容的创作中，简化公式编辑，参考文献添加删除的操作，比word写作效率要高很多。
