@@ -79,6 +79,52 @@ bPointsLabeling=0
 * 1：点云语义标注，使用点云原始颜色  
 * 2：点云语义标注，使用label_color_table.txt设置颜色  
 
+threads=8
+* 多线程并行运行参数，根据本机cpu核心数量进行设置
+
+scale=0.6
+* 图片分辨率裁剪压缩系数，1=不裁剪，0.6=按照原来长宽的0.6倍进行裁剪
+
+ncc=0.6
+* NCC低分过滤门槛，小于0.6以下的像素点被认为是不可靠的匹配，要被滤除
+
+half_window_size=5
+* NCC半窗口大小
+  
+window_size_step=2
+* NCC窗口内遍历步长
+  
+depth_diff_threshold=0.01
+* 重投影误差门槛，误差大于0.01的要被滤除
+
+num_max_views=6
+* 邻域图像数量上限
+
+num_min_views=2
+* 邻域图像数量下限
+
+angle_threshold=5
+* 邻域图像选择时两图像夹角最小值
+  
+num_consis_filter=2
+* 深度图过滤重投影误差需要最小的图片支持数量
+
+num_consis_fuse=1
+* 深度图融合时重投影误差需要最少的图片支持数量
+
+lidar_depthmap=0
+* 是否读入激光雷达数据，1读入雷达 ，0无雷达
+
+max_points=300000000
+* 生成稠密点云最大点数
+
+color_points_sample=200000000
+* 稠密点云上色最大点数，该项影响最终生成点云文件大小（也可设置为0~1之间的系数）
+
+color_scale=0.5
+* 点云上色点数比例
+
+
 # 三.程序运行说明
 语义引导的稠密重建程序主体部分以V1.6.2为基础，更新了以下两个文件：
 
