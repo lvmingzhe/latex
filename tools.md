@@ -32,6 +32,7 @@
   - [1. Teamviewer](#1-teamviewer)
   - [2. Office](#2-office)
   - [3. 在线视频下载器](#3-在线视频下载器)
+  - [4. CSDN网站去广告](#4-csdn网站去广告)
 - [总结](#总结)
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
@@ -105,10 +106,10 @@ Zotero is a free, easy-to-use tool to help you collect, organize, cite, and shar
 功能：下载pdf论文并自动用文章标题重命名文件，点击左上角的save按钮或按 Ctrl+S 触发下载.
 Currently support pdf pages in arxiv.org, aclweb.org/anthology/, proceedings.mlr.press，openaccess.thecvf.com, openreview.net, and ieeexplore.ieee.org.
 
-1. 安装一个用户脚本管理器
+1. 安装油猴脚本管理器
 [https://greasyfork.org/zh-CN](https://greasyfork.org/zh-CN)
 
-2. 安装一个用户脚本
+2. 安装arxiv改名脚本
 [https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname](https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname)
 
 3. 上arxiv网站使用save功能就可以自动改名保存
@@ -230,6 +231,13 @@ diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片
 [https://en.savefrom.net/18/](https://en.savefrom.net/18/)
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
+
+## 4. CSDN网站去广告
+
+1. 安装油猴脚本管理器
+[https://greasyfork.org/zh-CN](https://greasyfork.org/zh-CN)
+2. 安装[CSDN去广告](https://openuserjs.org/scripts/AdlerED/%E6%9C%80%E5%BC%BA%E7%9A%84%E8%80%81%E7%89%8C%E8%84%9A%E6%9C%ACCSDNGreener%EF%BC%9ACSDN%E5%B9%BF%E5%91%8A%E5%AE%8C%E5%85%A8%E8%BF%87%E6%BB%A4%E3%80%81%E4%BA%BA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC%E4%BC%98%E5%8C%96)
+3. 打开CSDN，广告消失。
 
 # 总结
 使用对的工具做事情能提高效率，事半功倍。希望本篇博文能对你的科研工作有帮助。
