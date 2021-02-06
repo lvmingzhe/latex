@@ -24,6 +24,7 @@
   - [6. 在线绘图网站](#6-在线绘图网站)
   - [7. 写作搭配](#7-写作搭配)
   - [8. 英语论文词句模板库](#8-英语论文词句模板库)
+  - [9. 矢量图绘制](#9-矢量图绘制)
 - [四. 大文件传输工具](#四-大文件传输工具)
   - [1. 文叔叔](#1-文叔叔)
   - [2. 奶牛快传](#2-奶牛快传)
@@ -175,6 +176,16 @@ diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片
 对于论文的每一部分都有细致的范例，比如：前言、参考文献、研究方法、结果阐述、研讨、写作结论等。
 
 [http://www.phrasebank.manchester.ac.uk/](http://www.phrasebank.manchester.ac.uk/)
+
+## 9. 矢量图绘制
+
+先使用PPT绘制流程图，另存为PDF。然后上[pdfresizer](https://pdfresizer.com/crop)网站自动裁剪PDF。
+
+[https://pdfresizer.com/crop](https://pdfresizer.com/crop)
+
+该网站也支持手动裁剪。下载裁剪好的pdf,导入在线latex编译即可。
+
+如果需要eps格式的矢量图，可以用Adobe acrobat软件进行pdf->eps转换。
 
 # 四. 大文件传输工具
 
