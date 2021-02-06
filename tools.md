@@ -160,6 +160,8 @@ diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片
 
 画一般论文插图的话,PPT都够用，画矢量图VISIO更专业一些。
 
+> VScode上有一款drawio的插件，在本地绘制也很方便。作者 Henning Dieterichs。
+
 ## 7. 写作搭配
 
 查询英语词组常用搭配的网站(thanks 王乐源)
