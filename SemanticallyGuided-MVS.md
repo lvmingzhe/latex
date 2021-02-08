@@ -152,6 +152,7 @@ color_scale=0.5       // 点云上色点数比例
    - 添加了类成员 depthColor(彩色深度图); semanticMap(语义图); wSizeMap(放大倍数);
    - 添加了类 TAABB， TPlane， TRay 用于射线平面运算
    - 添加若干功能函数声明
+  
 ## 2. 运行方式：
 可在以下两种方式中任选一种：
 
