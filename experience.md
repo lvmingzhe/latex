@@ -1,6 +1,6 @@
 # 作者列表
 
-1. Andrej Karpathy (Stanford PhD) [《计算机科学博士生存指南中文版》](https://mp.weixin.qq.com/s/-QQD5LlfsCa_awz1kVIT6A) ，英文原版地址[<A Survival Guide to a PhD>](https://karpathy.github.io/2016/09/07/phd/)
+1. Andrej Karpathy (Stanford PhD) [《计算机科学博士生存指南中文版》](https://mp.weixin.qq.com/s/-QQD5LlfsCa_awz1kVIT6A) ，英文原版地址[A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
 2. Showthem (Columbia PhD) [《哥大读博五年总结》](https://zhuanlan.zhihu.com/p/336801134)
 
