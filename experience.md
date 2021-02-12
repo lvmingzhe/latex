@@ -4,7 +4,7 @@
 
 2. Showthem (Columbia PhD) [《哥大读博五年总结》](https://zhuanlan.zhihu.com/p/336801134)
 
-3. Philip Guo (Stanford PhD) [<Advice for early-stage Ph.D. students>](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
+3. Philip Guo (Stanford PhD) [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 
 4. 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
 
