@@ -83,8 +83,26 @@
       5. 上课没那么重要
          > 上课最大的作用，就是去了解一门学科，有哪些基本的概念和算法（所谓把unknown unknown变成known unknown），哪天你要用到他们了，需要把known unknown变成known known的时候，知道在Google里输入啥关键词去搜。
     2. 方向比努力重要
+       第一个学期应付课程和考试。第二个学期迷茫，做了近一个学期incremental learning，事实上五年以后也没有很好被解决。第二个学期末和师兄参与一个video方向的比赛，开始是搞classification。但是作者发现detection方向用深度学习方法研究的人较少。因此转了detection方向，发了自己第一篇CVPR。
        1. PhD选题
-       2. 单篇Paper选题
+          1. 能不能快速上手的参考标准：
+             1. SOTA有没有开源的代码？
+             2. 有没有手把手辅导的师兄？
+             3. 有没有标准的benchmark或者比赛？
+          2. 能不能有大的影响力？
+             1. 一个领域开创新的工作，影响力大。
+             2. 一个领域结尾的工作，影响力大。
+             3. 该领域内改进型的工作
+       2. 单篇Paper选题(参考Heilmeier问题列表)
+          1. **What are you trying to do?** Articulate your objectives using absolutely no jargon.
+          2. How is it done today, and what are the **limits of current practice**?
+          3. **Who cares?** [Support other’s research? Shape research landscape? Power applications in industry?]
+          4. **What's new** in your approach and why do you think it will be successful?
+          5. If you're successful, **what difference** will it make? [e.g. Contributions in theory/modeling? Improve accuracy by 5% on dataset A, B, C…?]
+          6. What are the **risks and the payoffs**? [Further, how would you mitigate the risks? If your proposed method does not work, what could be alternative design? These can end up as discussions such as ablation studies in your paper.]
+          7. **How much** will it cost? [e.g. How many GPUs do your experiments require? How long is each training process? How about data storage?]
+          8. **How long **will it take? [How many hours are you going to work on this per week? When is the submission DDL? Can you make it?]
+          9. What are the midterm and final "**exams**" to check for success?
     3. 谈谈Presentation
        1. **做报告**
        2. **写paper**
@@ -105,7 +123,7 @@
           3. 不喜欢写代码 --> 搞商业，做管理
     8. 最后推荐了Ray Dalio的[Principles youtube video 30 mins](https://www.youtube.com/watch?v=B9XGUpQZY38) 
        1. 从错误中自我总结，避免再犯同样的错误
-       2. 处理好风险与收益(Risk-Reward)
+       2. 处理好风险与收益(Risk-Reward)的关系
        3. 意识到自己的思维盲区
        4. 从其他聪明人那里获得有价值的负反馈,合作共赢。
    
