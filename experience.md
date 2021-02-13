@@ -105,6 +105,11 @@
           9. What are the midterm and final "**exams**" to check for success?
     3. 谈谈Presentation
        1. **做报告**
+          1. 事先了解你的**听众背景**，再决定是注重宏观讲解或者深入技术细节。
+          2. **多图少字**，A picture is worth a thousand words
+          3. 把握听众**兴趣注意力**的**三个高潮**
+              ![注意力曲线](./img/zhuyiliquxian.png)
+              讲解琐碎的技术细节容易使人困惑无聊，所以需要通过不断地提出挑战性问题来刺激提升听众兴趣。
        2. **写paper**
     4. 记四次CVPR开会(2016-2020)
     5. 记三次实习
