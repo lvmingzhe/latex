@@ -111,11 +111,42 @@
               ![注意力曲线](./img/zhuyiliquxian.png)
               讲解琐碎的技术细节容易使人困惑无聊，所以需要通过不断地提出挑战性问题来刺激提升听众兴趣。
        2. **写paper**
-          1. 构思一个故事主线
-          2. Rationale很重要
-          3. 常用套路总结
+          1. 先给一个Talk.通过做ppt演讲的方式梳理清楚自己的思路。
+          2. 用Google doc做语法检查
+          3. 理论基础很重要。不光要讲好，而且要解释为什么好。
+          4. 常用套路总结：
+             1. Introduction
+                1. Problem definition
+                2. Previous methods and their limits
+                3. How to overcome the limits? (show a Graph here could be better)
+                4. Contributions:
+                   1. first work to solve what limits
+                   2. novel method
+                   3. outperform state-of-the-art
+             2. Related Work: 3~5 subsection
+                1. review previous work
+                2. what`s the differenece between yours and previous work
+             3. Method:
+                1. Overview : notation, framework
+                2. subsections
+             4. Experiment
+                1. Datasets
+                2. Implementation details
+                3. Evaluation metrics
+                4. Comparisons with state-of-the-art
+                5. Alternative design choice exploration/Ablation studies
+             5. Conclusion & Future Work
    4. 记四次CVPR开会(2016-2020)
+      1. oral
+      2. poster
+      3. tutorial
+      4. workshop
+      5. company party
+      6. Doctoral Consortium (组织毕业生和业界大佬一对一吃饭)
    5. 记三次实习
+      1. start-up company - Santa Clara
+      2. Microsoft - Redmond
+      3. Facebook - Menlo Park
    6. 难与易
        1. 平衡好做工程与做科研的时间很难
        2. 自制新数据集与开展新任务很难
