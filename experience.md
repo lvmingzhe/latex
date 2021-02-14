@@ -73,7 +73,7 @@
        - 归根结底还是要**做好自己**的工作，恰当地与人**沟通**，接下来就是静待好事发生。祝你博士之旅**愉快**！
 
 2. Showthem (Columbia PhD，Facebook Resarch scientist) [《哥大读博五年总结》](https://zhuanlan.zhihu.com/p/338193330)
-    1. 万事开头难
+   1. 万事开头难
       1. 初到纽约
       2. 差距
          > 英语口语有很大的差距，刚来时几乎完全**听不懂**。但是现在已能适应**各种口音**，要**敢说**，多跟**不同**的人聊天练习。
@@ -82,7 +82,7 @@
          > 累、苦，想这些又有什么用呢，只能更加平添烦恼。该做什么就去做，告诉自己干就完了，结束后反而发现，过程其实也就那样，有时候我们只是过度看重了自己的感受，夸大了困难的程度，其实自己的感受没那么重要，只要身体本身还撑得住。
       5. 上课没那么重要
          > 上课最大的作用，就是去了解一门学科，有哪些基本的概念和算法（所谓把unknown unknown变成known unknown），哪天你要用到他们了，需要把known unknown变成known known的时候，知道在Google里输入啥关键词去搜。
-    2. 方向比努力重要
+   2. 方向比努力重要
        第一个学期应付课程和考试。第二个学期迷茫，做了近一个学期incremental learning，事实上五年以后也没有很好被解决。第二个学期末和师兄参与一个video方向的比赛，开始是搞classification。但是作者发现detection方向用深度学习方法研究的人较少。因此转了detection方向，发了自己第一篇CVPR。
        1. PhD选题
           1. 能不能快速上手的参考标准：
@@ -103,7 +103,7 @@
           7. **How much** will it cost? [e.g. How many GPUs do your experiments require? How long is each training process? How about data storage?]
           8. **How long **will it take? [How many hours are you going to work on this per week? When is the submission DDL? Can you make it?]
           9. What are the midterm and final "**exams**" to check for success?
-    3. 谈谈Presentation
+   3. 谈谈Presentation
        1. **做报告**
           1. 事先了解你的**听众背景**，再决定是注重宏观讲解或者深入技术细节。
           2. **多图少字**，A picture is worth a thousand words
@@ -114,13 +114,13 @@
           1. 构思一个故事主线
           2. Rationale很重要
           3. 常用套路总结
-    4. 记四次CVPR开会(2016-2020)
-    5. 记三次实习
-    6. 难与易
+   4. 记四次CVPR开会(2016-2020)
+   5. 记三次实习
+   6. 难与易
        1. 平衡好做工程与做科研的时间很难
        2. 自制新数据集与开展新任务很难
        3. 文献调研，准备数据，写paper,写代码等事。关键是开始行动起来，后续可能也没那么难。
-    7. 毕业后何去何从
+   7. 毕业后何去何从
        1. 想要什么？
           1. 钱-->去大公司写代码
           2. 家庭-->去养老型公司或小一些的学校
@@ -129,12 +129,12 @@
           1. 汽车 + 写代码 --> 自动驾驶
           2. 看视频，拍视频 + 写代码 --> 视频理解与生成
           3. 不喜欢写代码 --> 搞商业，做管理
-    8. 最后推荐了Ray Dalio的[Principles youtube video 30 mins](https://www.youtube.com/watch?v=B9XGUpQZY38) 
-       1. 从错误中自我总结，避免再犯同样的错误
-       2. 处理好风险与收益(Risk-Reward)的关系
-       3. 意识到自己的思维盲区
-       4. 从其他聪明人那里获得有价值的负反馈,合作共赢。
-   
+   8. 最后推荐了Ray Dalio的[《Principles》 youtube 30分钟视频](https://www.youtube.com/watch?v=B9XGUpQZY38) 
+      > 瑞·达利欧（Ray Dalio），世界上最大的对冲基金公司桥水创始人，号称金融界的乔布斯。过去20多年，桥水基金创造了超过20%的年平均投资回报率，管理基金规模超过1500亿美元，累计盈利450亿美元。
+       1. 从错误中自省，避免再犯同样的错误--->(自省)
+       2. 意识到自己的思维盲区，从其他聪明人那里获得有价值的负反馈--->(他省)
+       3. 处理好风险与收益(Risk-Reward)的关系--->(慎重决策)
+      > 个人觉得美国人Ray Dalio的《原则Pricnciples》全书讲的道理和共产党员"批评与自我批评"是同一件事情!
 3. Philip Guo (Stanford PhD) [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 
 4. 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
