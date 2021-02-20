@@ -12,7 +12,7 @@
 
 # [Andrej Karpathy](https://karpathy.ai/) (Stanford PhD， 李飞飞高徒，著名的CS231n课程主讲，特斯拉AI高级总监) 
 
-    [《计算机科学博士生存指南中文版》](https://mp.weixin.qq.com/s/-QQD5LlfsCa_awz1kVIT6A) 
+   - [《计算机科学博士生存指南中文版》](https://mp.weixin.qq.com/s/-QQD5LlfsCa_awz1kVIT6A) 
     英文原版： [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
    - 读博前**心理**准备：得到时间和探索**自由**，承受研究过程中的失败与**痛苦**。
