@@ -1,6 +1,16 @@
-# 作者列表
+- [Andrej Karpathy (Stanford PhD， 李飞飞高徒，著名的CS231n课程主讲，特斯拉AI高级总监)](#andrej-karpathy-stanford-phd-李飞飞高徒著名的cs231n课程主讲特斯拉ai高级总监)
+- [Showthem (Columbia PhD，Facebook Resarch scientist) 《哥大读博五年总结》](#showthem-columbia-phdfacebook-resarch-scientist-哥大读博五年总结)
+- [Philip Guo (Stanford PhD) Advice for early-stage Ph.D. students](#philip-guo-stanford-phd-advice-for-early-stage-phd-students)
+- [陈海波教授(华为-计算机操作系统领域国内顶尖水平):《一名系统研究者的攀岩之路》](#陈海波教授华为-计算机操作系统领域国内顶尖水平一名系统研究者的攀岩之路)
+- [李沐(亚马逊-深度学习框架MXNet创始人)《博士这五年》](#李沐亚马逊-深度学习框架mxnet创始人博士这五年)
+- [田渊栋(Facebook-人工智能研究院研究员)《博士五年总结》](#田渊栋facebook-人工智能研究院研究员博士五年总结)
+- [熊辉(新泽西州立大学教授)《为什么人前进的路总是被自己挡住》](#熊辉新泽西州立大学教授为什么人前进的路总是被自己挡住)
+- [蒋炎岩(南京大学-助理研究员,CCF优博全国前5)《读博那些事儿》](#蒋炎岩南京大学-助理研究员ccf优博全国前5读博那些事儿)
+- [励静合(知乎专栏) 《博士的围城》](#励静合知乎专栏-博士的围城)
+- [林达华(MIT PhD, 香港中文大学副教授，商汤科技联合创始人，师从汤晓鸥教授) 《我的PhD生活》转载版](#林达华mit-phd-香港中文大学副教授商汤科技联合创始人师从汤晓鸥教授-我的phd生活转载版)
 
-1. [Andrej Karpathy](https://karpathy.ai/) (Stanford PhD， 李飞飞高徒，著名的CS231n课程主讲，特斯拉AI高级总监) 
+
+# [Andrej Karpathy](https://karpathy.ai/) (Stanford PhD， 李飞飞高徒，著名的CS231n课程主讲，特斯拉AI高级总监) 
 
     [《计算机科学博士生存指南中文版》](https://mp.weixin.qq.com/s/-QQD5LlfsCa_awz1kVIT6A) 
     英文原版： [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
@@ -21,7 +31,7 @@
        - 写[Andrej Karpathy 个人博客](https://karpathy.github.io/)，与他人交流不便写进paper的想法。
        - ImageNet 人类推理实验，作者花了几周时间评估ILSVRC上人类推理准确度。
        - 主讲两个学期的[CS231n课程](http://cs231n.stanford.edu/)，作者花费了相当大的精力用在CS231n课程，远超过一个博士生应该花在助教工作上的时间。但是作者认为让**更多的人**了解卷积神经网络这一领域并且**有兴趣**开展研究，比自己一个人做研究有更大的意义。哪怕因此牺牲时间，甚至降低自己的论文影响因子。
-       - 开发了[**arxiv-sanity**](http://www.arxiv-sanity.com/)论文搜索工具,其[源码]可用于本地配置(https://github.com/karpathy/arxiv-sanity-preserver)。该网站搜索结果比原版arxiv更准，相关推荐可靠。可视化效果提升一个档次，下载方便。可查看本领域热门收藏文章。可与其他用户一起评论paper的优缺点。ps:该网站需要翻墙。
+       - 开发了[**arxiv-sanity**](http://www.arxiv-sanity.com/)论文搜索工具,其[源码](https://github.com/karpathy/arxiv-sanity-preserver)可用于本地配置。该网站搜索结果比原版arxiv更准，相关推荐可靠。可视化效果提升一个档次，下载方便。可查看本领域热门收藏文章。可与其他用户一起评论paper的优缺点。ps:该网站需要翻墙。
     - 如何**写论文**
       - 写论文对于科研来说就像原始洞穴人掌握生火一样重要。
       - 通过**评审**别人的论文来提高自己。多阅读好的文章，积累写作模板可能不是最佳的方式。仅仅只读好的文章有点像只给分类器以正向训练样本。如果你都不知道**什么是差**，又怎么能明白什么是好。顶会论文的接受率通常不足25%，大量的文章写作都很差。尽量避免和差文章一样糟糕的写作：
@@ -72,7 +82,7 @@
        - 学术之路**没有捷径**可走，你的目的是通过优秀的研究来**推动**这一领域的**进步**。任何指望通过**玩弄体制**，针对某些指标动手脚，将同一想法稍作修改后重复发表，重复提交被退回的论文而没有丝毫修改等行为最终会让你**吃尽苦头**，并且离成功渐行渐远。 
        - 归根结底还是要**做好自己**的工作，恰当地与人**沟通**，接下来就是静待好事发生。祝你博士之旅**愉快**！
 
-2. Showthem (Columbia PhD，Facebook Resarch scientist) [《哥大读博五年总结》](https://zhuanlan.zhihu.com/p/338193330)
+# Showthem (Columbia PhD，Facebook Resarch scientist) [《哥大读博五年总结》](https://zhuanlan.zhihu.com/p/338193330)
    1. 万事开头难
       1. 初到纽约
       2. 差距
@@ -166,23 +176,23 @@
        2. 意识到自己的思维盲区，从其他聪明人那里获得有价值的负反馈--->(他省)
        3. 处理好风险与收益(Risk-Reward)的关系--->(慎重决策)
       > 个人觉得美国人Ray Dalio的《原则Pricnciples》全书讲的道理和共产党员"批评与自我批评"是同一件事情!
-3. Philip Guo (Stanford PhD) [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
+# Philip Guo (Stanford PhD) [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 
-4. 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
+# 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
 
-5. 李沐(亚马逊-深度学习框架MXNet创始人)[《博士这五年》](https://zhuanlan.zhihu.com/p/25099638)
+# 李沐(亚马逊-深度学习框架MXNet创始人)[《博士这五年》](https://zhuanlan.zhihu.com/p/25099638)
 
-6. 田渊栋(Facebook-人工智能研究院研究员)[《博士五年总结》](http://yuandong-tian.com/five_year_summary_of_PhD.pdf)
+# 田渊栋(Facebook-人工智能研究院研究员)[《博士五年总结》](http://yuandong-tian.com/five_year_summary_of_PhD.pdf)
 
-7. 熊辉(新泽西州立大学教授)[《为什么人前进的路总是被自己挡住》](https://www.evernote.com/shard/s150/client/snv?noteGuid=3de79ff0-5778-417c-9bcb-6c0111a26694&noteKey=29958003bb71992667ce3f42fd4ca875&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs150%2Fsh%2F3de79ff0-5778-417c-9bcb-6c0111a26694%2F29958003bb71992667ce3f42fd4ca875&title=%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588%25E4%25BA%25BA%25E5%2589%258D%25E8%25BF%259B%25E7%259A%2584%25E8%25B7%25AF%25E6%2580%25BB%25E6%2598%25AF%25E8%25A2%25AB%25E8%2587%25AA%25E5%25B7%25B1%25E6%258C%25A1%25E4%25BD%258F)
+# 熊辉(新泽西州立大学教授)[《为什么人前进的路总是被自己挡住》](https://www.evernote.com/shard/s150/client/snv?noteGuid=3de79ff0-5778-417c-9bcb-6c0111a26694&noteKey=29958003bb71992667ce3f42fd4ca875&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs150%2Fsh%2F3de79ff0-5778-417c-9bcb-6c0111a26694%2F29958003bb71992667ce3f42fd4ca875&title=%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588%25E4%25BA%25BA%25E5%2589%258D%25E8%25BF%259B%25E7%259A%2584%25E8%25B7%25AF%25E6%2580%25BB%25E6%2598%25AF%25E8%25A2%25AB%25E8%2587%25AA%25E5%25B7%25B1%25E6%258C%25A1%25E4%25BD%258F)
    
     - 中科大本科毕业四五年之后，再申请新加坡读硕，美国读博
     - 讲了一些学术圈政治斗争，为人处世的细节
 
-8.  蒋炎岩(南京大学-助理研究员,CCF优博全国前5)[《读博那些事儿》](https://zhuanlan.zhihu.com/p/82579410)
+#  蒋炎岩(南京大学-助理研究员,CCF优博全国前5)[《读博那些事儿》](https://zhuanlan.zhihu.com/p/82579410)
    
-9.  励静合(知乎专栏) [《博士的围城》](https://www.zhihu.com/column/boshideweicheng)
+#  励静合(知乎专栏) [《博士的围城》](https://www.zhihu.com/column/boshideweicheng)
     - 工科女博士，专栏有三四十篇短文，出版《那些我希望在读博前知道的事》
 
-10. 林达华(MIT PhD, 香港中文大学副教授，商汤科技联合创始人，师从汤晓鸥教授) [《我的PhD生活》转载版](https://blog.csdn.net/bluecol/article/details/47210115)
+# 林达华(MIT PhD, 香港中文大学副教授，商汤科技联合创始人，师从汤晓鸥教授) [《我的PhD生活》转载版](https://blog.csdn.net/bluecol/article/details/47210115)
     
