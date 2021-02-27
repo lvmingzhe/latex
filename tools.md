@@ -95,7 +95,7 @@
 
 [https://arxiv.org/](https://arxiv.org/)
 
-高阶的arxiv搜索网站,搜索结果更准确，网站可视化效果比传统arxiv要高一个档次。由[Andrej Karpathy大佬利用业余时间开发的](https://github.com/lvmingzhe/latex/blob/main/experience.md#andrej-karpathy-stanford-phd-%E6%9D%8E%E9%A3%9E%E9%A3%9E%E9%AB%98%E5%BE%92%E8%91%97%E5%90%8D%E7%9A%84cs231n%E8%AF%BE%E7%A8%8B%E4%B8%BB%E8%AE%B2%E7%89%B9%E6%96%AF%E6%8B%89ai%E9%AB%98%E7%BA%A7%E6%80%BB%E7%9B%91)。
+高阶的arxiv搜索网站,搜索结果更准确，网站可视化效果比传统arxiv要高一个档次。由[Andrej Karpathy大佬](https://github.com/lvmingzhe/latex/blob/main/experience.md#andrej-karpathy-stanford-phd-%E6%9D%8E%E9%A3%9E%E9%A3%9E%E9%AB%98%E5%BE%92%E8%91%97%E5%90%8D%E7%9A%84cs231n%E8%AF%BE%E7%A8%8B%E4%B8%BB%E8%AE%B2%E7%89%B9%E6%96%AF%E6%8B%89ai%E9%AB%98%E7%BA%A7%E6%80%BB%E7%9B%91)利用业余时间开发的。
 
 [http://www.arxiv-sanity.com/](http://www.arxiv-sanity.com/)
 
