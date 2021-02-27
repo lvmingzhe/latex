@@ -2,10 +2,11 @@
 @[ROSE](文章目录)
 - [前言](#前言)
 - [一、翻墙工具](#一翻墙工具)
-  - [1. 蓝灯](#1-蓝灯)
-  - [2. ikuuu](#2-ikuuu)
-  - [3. Google Chrome Ghelper](#3-google-chrome-ghelper)
-  - [4. V2Ray](#4-v2ray)
+  - [蓝灯](#蓝灯)
+  - [justmysocks2.net](#justmysocks2net)
+  - [ikuuu](#ikuuu)
+  - [Google Chrome Ghelper](#google-chrome-ghelper)
+  - [V2Ray](#v2ray)
 - [二、文献检索工具](#二文献检索工具)
   - [1.谷歌学术](#1谷歌学术)
   - [2. arxiv论文预印本网站](#2-arxiv论文预印本网站)
@@ -46,21 +47,32 @@
 # 一、翻墙工具
 翻墙软件千千万，但墙也不断地在升级。经常会出现以前能用的方法现在失效了，所以遇到翻不过的时候不要着急，换条路子没准就管用。
 
-## 1. 蓝灯
+## 蓝灯
 
 [https://github.com/getlantern/lantern](https://github.com/getlantern/lantern)
 
-如果你是windows系统，直接点击[这里Windows7及以上 Windows 7+](https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe)就可以下载。无需注册，直接使用。
+如果你是windows系统，直接点击[这里Windows7及以上 Windows 7+](https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe)就可以下载。无需注册，直接使用。（2021.02 蓝灯无法访问谷歌学术）
 如果想断开蓝灯，在任务栏蓝灯图标上右键单击断开。访问国内网站的时候可断开。
-## 2. ikuuu
+
+## justmysocks2.net
+
+购买just my socks服务（5.88美金/月）如果网站跳转失败注意检查域名是否为justmysocks2.net
+[https://justmysocks2.net/members/cart.php](https://justmysocks2.net/members/cart.php)
+使用shadowsocks软件
+[https://github.com/shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+安装好之后->shadwsocks小飞机图标->右键->服务器->扫描屏幕上的二维码
+就可以将购买的服务器地址导入 
+2021.02 可以访问谷歌学术
+
+## ikuuu
 这个平台也可以，但是偶尔会挂掉，需要注册。
 
 **[https://ikuuu.co/auth/login#](https://ikuuu.co/auth/login#)**
 
-## 3. Google Chrome Ghelper
+## Google Chrome Ghelper
 可以在chrome 浏览器应用市场里直接搜索Ghelper，有免费流量，但是不太推荐用，有时候会挂，和V2Ray有冲突很难卸载。
 
-## 4. V2Ray 
+## V2Ray 
 
 这个较为高阶，V2Ray 是一个与 Shadowsocks 类似的代理软件，功能更强大，配置复杂，抗干扰能力强，突破防火墙封锁能力强。
 
