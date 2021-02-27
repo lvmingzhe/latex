@@ -57,9 +57,13 @@
 ## justmysocks2.net
 
 购买just my socks服务（5.88美金/月）如果网站跳转失败注意检查域名是否为justmysocks2.net
+
 [https://justmysocks2.net/members/cart.php](https://justmysocks2.net/members/cart.php)
+
 使用shadowsocks软件
+
 [https://github.com/shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+
 安装好之后->shadwsocks小飞机图标->右键->服务器->扫描屏幕上的二维码
 就可以将购买的服务器地址导入 
 2021.02 可以访问谷歌学术
