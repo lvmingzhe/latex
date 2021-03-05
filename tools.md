@@ -4,7 +4,7 @@
 - [一、翻墙工具](#一翻墙工具)
   - [蓝灯](#蓝灯)
   - [justmysocks2.net](#justmysocks2net)
-  - [ikuuu](#ikuuu)
+  - [clash for windows](#clash-for-windows)
   - [Google Chrome Ghelper](#google-chrome-ghelper)
   - [V2Ray](#v2ray)
 - [二、文献检索工具](#二文献检索工具)
@@ -68,10 +68,17 @@
 就可以将购买的服务器地址导入 
 2021.02 可以访问谷歌学术
 
-## ikuuu
-这个平台也可以，但是偶尔会挂掉，需要注册。
+## clash for windows
+
+[软件下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
+平台有很多，例如：
+
+[机场](https://j01.space/waf/10242)
 
 **[https://ikuuu.co/auth/login#](https://ikuuu.co/auth/login#)**
+
+[教学贴](https://t66y.com/htm_data/2102/7/4345018.html)
 
 ## Google Chrome Ghelper
 可以在chrome 浏览器应用市场里直接搜索Ghelper，有免费流量，但是不太推荐用，有时候会挂，和V2Ray有冲突很难卸载。
