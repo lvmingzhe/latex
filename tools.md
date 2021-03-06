@@ -151,7 +151,7 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 [http://raisepub.com/](http://raisepub.com/)
 
-- 【Texpage】服务器在杭州，缺少review功能
+- 【Texpage】服务器在浙江，缺少review功能
 
 [https://www.texpage.com/](https://www.texpage.com/)
 
