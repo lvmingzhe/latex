@@ -147,9 +147,13 @@ Currently support pdf pages in arxiv.org, aclweb.org/anthology/, proceedings.mlr
 latex是一种学术论文写作工具，其优点是将内容脱离模板，使写作者可以专注到文章内容的创作中，简化公式编辑，参考文献添加删除的操作，比word写作效率要高很多。
 缺点是需要一点编程基础，新手上手需要一段时间的适应。
 ## 1. 在线 latex 写作网站（国内版）
-该网站服务器在北京，访问速度快且稳定。缺点是由于缺少review功能，导致多人协同写作功能弱。如果是一个人写作，且在家上网的话，强烈推荐。
+- 【raisepub】服务器在北京，访问速度快且稳定。缺点是由于缺少review功能，导致多人协同写作功能弱。如果是一个人写作，且在家上网的话，强烈推荐。
 
 [http://raisepub.com/](http://raisepub.com/)
+
+- 【Texpage】服务器在杭州，缺少review功能
+
+[https://www.texpage.com/](https://www.texpage.com/)
 
 ## 2. 在线 latex 写作网站：overleaf（美国版）
 该网站服务器在美国，访问速度慢不稳定，但是北京市科技网访问还是很稳定的。优点是具有review功能，多人协同写作功能强。团队写作推荐。
