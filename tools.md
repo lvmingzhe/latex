@@ -36,6 +36,7 @@
   - [2. Office](#2-office)
   - [3. 在线视频下载器](#3-在线视频下载器)
   - [4. CSDN网站去广告](#4-csdn网站去广告)
+  - [5. ToDesk](#5-todesk)
 - [总结](#总结)
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
@@ -295,6 +296,13 @@ Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https:/
 [https://greasyfork.org/zh-CN](https://greasyfork.org/zh-CN)
 2. 安装[CSDN去广告](https://openuserjs.org/scripts/AdlerED/%E6%9C%80%E5%BC%BA%E7%9A%84%E8%80%81%E7%89%8C%E8%84%9A%E6%9C%ACCSDNGreener%EF%BC%9ACSDN%E5%B9%BF%E5%91%8A%E5%AE%8C%E5%85%A8%E8%BF%87%E6%BB%A4%E3%80%81%E4%BA%BA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC%E4%BC%98%E5%8C%96)
 3. 打开CSDN，广告消失。
+
+
+## 5. ToDesk
+
+一款简单易用的多平台远程控制国产软件，稳定性好，且访问速度比TeamViewer快。
+
+[https://www.todesk.com/](https://www.todesk.com/)
 
 # 总结
 使用对的工具做事情能提高效率，事半功倍。希望本篇博文能对你的科研工作有帮助。
