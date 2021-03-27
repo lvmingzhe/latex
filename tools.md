@@ -218,13 +218,13 @@ diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片
 
 该网站也支持手动裁剪。下载裁剪好的pdf,导入在线latex编译即可。
 
-如果需要eps格式的矢量图，可以用Adobe acrobat软件进行pdf->eps转换。
+如果需要eps格式的矢量图，可以用Adobe Acrobat软件进行pdf->eps转换。
+
+pdf裁剪也可以通过Acrobat软件进行。
 
 ## 10. 压缩PDF文件体积的方法
 
-使用 Adobe Acrobat Pro DC，另存为:其他—优化的PDF
-
-可以设置图片压缩质量，会影响生成pdf文件大小和图片清晰度
+使用 Adobe Acrobat Pro DC，文件->另存为其他—>优化的PDF->(图像缩减采样关闭)->确定
 
 Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg) 提取码：akll 
 
