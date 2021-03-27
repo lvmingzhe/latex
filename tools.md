@@ -26,6 +26,7 @@
   - [7. 英语论文词句模板库](#7-英语论文词句模板库)
   - [8. drawio流程图绘制网站](#8-drawio流程图绘制网站)
   - [9. PPT画矢量图绘制途径](#9-ppt画矢量图绘制途径)
+  - [10. 压缩PDF文件体积的方法](#10-压缩pdf文件体积的方法)
 - [四. 大文件传输工具](#四-大文件传输工具)
   - [1. 文叔叔](#1-文叔叔)
   - [2. 奶牛快传](#2-奶牛快传)
@@ -218,6 +219,15 @@ diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片
 该网站也支持手动裁剪。下载裁剪好的pdf,导入在线latex编译即可。
 
 如果需要eps格式的矢量图，可以用Adobe acrobat软件进行pdf->eps转换。
+
+## 10. 压缩PDF文件体积的方法
+
+使用 Adobe Acrobat Pro DC，另存为:其他—优化的PDF
+
+可以设置图片压缩质量，会影响生成pdf文件大小和图片清晰度
+
+Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg) 提取码：akll 
+
 
 # 四. 大文件传输工具
 
