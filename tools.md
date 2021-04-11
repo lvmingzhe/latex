@@ -14,6 +14,7 @@
   - [4. 中文文献](#4-中文文献)
   - [5. dblp](#5-dblp)
   - [6. IEEE Xplore](#6-ieee-xplore)
+  - [7. elsevier](#7-elsevier)
 - [三. 文献管理工具](#三-文献管理工具)
   - [1. Mendeley](#1-mendeley)
   - [2. Zotero](#2-zotero)
@@ -141,6 +142,12 @@ IEEE 文章官方检索
 [https://sci-hub.se/](https://sci-hub.se/)
 
 将DOI码粘贴到搜索栏后点击open下载
+
+## 7. elsevier
+
+爱思唯尔官网，操作同上一条。
+
+[https://www.elsevier.com/](https://www.elsevier.com/)
 
 # 三. 文献管理工具
 ## 1. Mendeley
