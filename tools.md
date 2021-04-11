@@ -12,6 +12,8 @@
   - [2. arxiv论文预印本网站](#2-arxiv论文预印本网站)
   - [3. SCI-HUB](#3-sci-hub)
   - [4. 中文文献](#4-中文文献)
+  - [5. dblp](#5-dblp)
+  - [6. IEEE Xplore](#6-ieee-xplore)
 - [三. 文献管理工具](#三-文献管理工具)
   - [1. Mendeley](#1-mendeley)
   - [2. Zotero](#2-zotero)
@@ -121,6 +123,24 @@
 
 论文驿站
 [https://www.lunwenyizhan.com/](https://www.lunwenyizhan.com/)
+
+## 5. dblp
+
+DBLP（DataBase systems and Logic Programming）是计算机领域内对研究的成果以作者为核心的一个计算机类英文文献的集成数据库系统。
+
+[https://dblp.uni-trier.de/](https://dblp.uni-trier.de/)
+
+## 6. IEEE Xplore
+
+IEEE 文章官方检索
+
+[https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
+
+高校内网直接点击下载，不在高校时复制该文章的DOI码（例如 10.1109/IoT-SIU.2019.8777334 ），转到
+
+[https://sci-hub.se/](https://sci-hub.se/)
+
+将DOI码粘贴到搜索栏后点击open下载
 
 # 三. 文献管理工具
 ## 1. Mendeley
