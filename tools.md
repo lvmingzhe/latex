@@ -163,6 +163,7 @@ Zotero is a free, easy-to-use tool to help you collect, organize, cite, and shar
 ## 3. 坚果云
 不同于百度网盘适合大文件低频率更新方式的存储，坚果云擅长文档类文件实时更新式云端存储
 很适合作为pdf文献管理的网盘。
+[jianguoyun.com](jianguoyun.com)
 
 ## 4.arxiv网站pdf自动改名工具
 功能：下载pdf论文并自动用文章标题重命名文件，点击左上角的save按钮或按 Ctrl+S 触发下载.
