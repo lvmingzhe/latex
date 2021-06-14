@@ -18,7 +18,8 @@
 - [三. 文献管理工具](#三-文献管理工具)
   - [1. Mendeley](#1-mendeley)
   - [2. Zotero](#2-zotero)
-  - [3.arxiv网站pdf自动改名工具](#3arxiv网站pdf自动改名工具)
+  - [3. 坚果云](#3-坚果云)
+  - [4.arxiv网站pdf自动改名工具](#4arxiv网站pdf自动改名工具)
 - [四. 论文写作工具](#四-论文写作工具)
   - [1. 在线 latex 写作网站（国内版）](#1-在线-latex-写作网站国内版)
   - [2. 在线 latex 写作网站：overleaf（美国版）](#2-在线-latex-写作网站overleaf美国版)
@@ -159,7 +160,11 @@ IEEE 文章官方检索
 Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 [https://www.zotero.org/](https://www.zotero.org/)
 
-## 3.arxiv网站pdf自动改名工具
+## 3. 坚果云
+不同于百度网盘适合大文件低频率更新方式的存储，坚果云擅长文档类文件实时更新式云端存储
+很适合作为pdf文献管理的网盘。
+
+## 4.arxiv网站pdf自动改名工具
 功能：下载pdf论文并自动用文章标题重命名文件，点击左上角的save按钮或按 Ctrl+S 触发下载.
 Currently support pdf pages in arxiv.org, aclweb.org/anthology/, proceedings.mlr.press，openaccess.thecvf.com, openreview.net, and ieeexplore.ieee.org.
 
