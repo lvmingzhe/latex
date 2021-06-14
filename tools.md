@@ -162,6 +162,9 @@ Zotero is a free, easy-to-use tool to help you collect, organize, cite, and shar
 
 ## 3. 坚果云
 不同于百度网盘适合大文件低频率更新方式的存储，坚果云擅长文档类文件实时更新式云端存储
+
+可以永久解决积累海量文献以后，mendeley和zotero在线空间受限不够用的问题
+
 很适合作为pdf文献管理的网盘。
 [jianguoyun.com](https://www.jianguoyun.com/s/campaign/cpclanding/main?sch=bdcpc_ppzq)
 
