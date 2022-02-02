@@ -177,6 +177,7 @@
        3. 处理好风险与收益(Risk-Reward)的关系--->(慎重决策)
       > 个人觉得美国人Ray Dalio的《原则Pricnciples》全书讲的道理和共产党员"批评与自我批评"是同一件事情!
 # Philip Guo (Stanford PhD) [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
+- Stop caring about your classes and just do whatever you need to do to pass them.
 
 # 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
 
