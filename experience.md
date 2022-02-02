@@ -178,6 +178,18 @@
       > 个人觉得美国人Ray Dalio的《原则Pricnciples》全书讲的道理和共产党员"批评与自我批评"是同一件事情!
 # Philip Guo (Stanford PhD) [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 - Stop caring about your classes and just do whatever you need to do to pass them.
+  > Only after you make some progress on your research (even a tiny bit) should you give yourself permission to do some class work.
+  > Stop wasting too much time on the mundane tasks.
+
+- 4 key fators contributors to failure at the Ph.D. level:
+  - resilience
+  - perseverance
+  - metacognition
+  - self-discipline
+
+- Professors look forward to helping students who, paradoxically, need less help.
+
+
 
 # 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
 
