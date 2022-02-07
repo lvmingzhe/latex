@@ -2,9 +2,6 @@
 - [Showthem (Columbia PhD，Facebook Resarch scientist) 《哥大读博五年总结》](#showthem-columbia-phdfacebook-resarch-scientist-哥大读博五年总结)
 - [Philip Guo (Stanford PhD) Advice for early-stage Ph.D. students](#philip-guo-stanford-phd-advice-for-early-stage-phd-students)
 - [陈海波教授(华为-计算机操作系统领域国内顶尖水平):《一名系统研究者的攀岩之路》](#陈海波教授华为-计算机操作系统领域国内顶尖水平一名系统研究者的攀岩之路)
-  - [思考问题需要极度的批判性(super-critical)](#思考问题需要极度的批判性super-critical)
-  - [扎实的基本功](#扎实的基本功)
-  - [发散式思维](#发散式思维)
 - [李沐(亚马逊-深度学习框架MXNet创始人)《博士这五年》](#李沐亚马逊-深度学习框架mxnet创始人博士这五年)
 - [田渊栋(Facebook-人工智能研究院研究员)《博士五年总结》](#田渊栋facebook-人工智能研究院研究员博士五年总结)
 - [熊辉(新泽西州立大学教授)《为什么人前进的路总是被自己挡住》](#熊辉新泽西州立大学教授为什么人前进的路总是被自己挡住)
@@ -201,16 +198,17 @@
   - weekly meeting with your advisor DDL
   - one-on-one meetings with other people DDL
 
-# 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
+# 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](https://wenku.baidu.com/view/371b277ea26925c52cc5bfad.html)
 
-## 思考问题需要极度的批判性(super-critical)
-- Why do this?
-- 不要重新发明轮子/发明一个不相干的轮子
+- 思考问题需要极度的批判性(super-critical)
+  - Why do this?
+  - 不要重新发明轮子/发明一个不相干的轮子
+  - 如果一个问题可以用方法1来解决，是否可以用方法2来解决？两种方法的优劣是什么？
 
-## 扎实的基本功
-
-## 发散式思维
-- 如果一个问题可以用方法1来解决，是否可以用方法2来解决？两种方法的优劣是什么？
+- 耐心
+  - 计算机系统领域的研究周期通常长达两年以上。
+  - 急功近利的心态通常会失败。
+  - 一个bug有时候要调试几周，不要碰到一点困难就轻言放弃
 
 # 李沐(亚马逊-深度学习框架MXNet创始人)[《博士这五年》](https://zhuanlan.zhihu.com/p/25099638)
 
