@@ -177,8 +177,38 @@
        3. 处理好风险与收益(Risk-Reward)的关系--->(慎重决策)
       > 个人觉得美国人Ray Dalio的《原则Pricnciples》全书讲的道理和共产党员"批评与自我批评"是同一件事情!
 # Philip Guo (Stanford PhD) [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
+- Stop caring about your classes and just do whatever you need to do to pass them.
+  - Do the most important thing first.
+  - Only after you make some progress on your research (even a tiny bit) should you give yourself permission to do some class work.
+  - Stop wasting too much time on the mundane tasks.
+  - 8:00-11:00am **research hours**
+  - 11:00am-6:00pm campus hours
+  - evenings research & homework
 
-# 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](http://prof.ict.ac.cn/lugang/readings/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
+- 4 key fators contributors to failure at the Ph.D. level:
+  - resilience
+  - perseverance
+  - metacognition
+  - self-discipline
+
+- Professors look forward to helping students who, paradoxically, need less help.
+
+- Make yourself accountable
+  - lab meeting DDL
+  - weekly meeting with your advisor DDL
+  - one-on-one meetings with other people DDL
+
+# 陈海波教授(华为-计算机操作系统领域国内顶尖水平):[《一名系统研究者的攀岩之路》](https://wenku.baidu.com/view/371b277ea26925c52cc5bfad.html)
+
+- 思考问题需要极度的批判性(super-critical)
+  - Why do this?
+  - 不要重新发明轮子/发明一个不相干的轮子
+  - 如果一个问题可以用方法1来解决，是否可以用方法2来解决？两种方法的优劣是什么？
+
+- 耐心
+  - 计算机系统领域的研究周期通常长达两年以上。
+  - 急功近利的心态通常会失败。
+  - 一个bug有时候要调试几周，不要碰到一点困难就轻言放弃
 
 # 李沐(亚马逊-深度学习框架MXNet创始人)[《博士这五年》](https://zhuanlan.zhihu.com/p/25099638)
 
