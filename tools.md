@@ -147,7 +147,7 @@ IEEE 文章官方检索
 
 ## 7. elsevier
 
-爱思唯尔官网，操作同上一条。
+爱思唯尔官网，操作同上一条
 
 [https://www.elsevier.com/](https://www.elsevier.com/)
 
