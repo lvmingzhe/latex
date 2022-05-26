@@ -18,11 +18,12 @@
   - [6. IEEE Xplore](#6-ieee-xplore)
   - [7. elsevier](#7-elsevier)
   - [8. z-lib](#8-z-lib)
-- [三. 文献管理工具](#三-文献管理工具)
+- [三. 文献阅读管理工具](#三-文献阅读管理工具)
   - [1. Mendeley](#1-mendeley)
   - [2. Zotero](#2-zotero)
   - [3. 坚果云](#3-坚果云)
   - [4.arxiv网站pdf自动改名工具](#4arxiv网站pdf自动改名工具)
+  - [5. readpaper.com](#5-readpapercom)
 - [四. 论文写作工具](#四-论文写作工具)
   - [1. 在线 latex 写作网站（国内版）](#1-在线-latex-写作网站国内版)
   - [2. 在线 latex 写作网站：overleaf（美国版）](#2-在线-latex-写作网站overleaf美国版)
@@ -40,8 +41,11 @@
   - [3.百度网盘下载工具PCS](#3百度网盘下载工具pcs)
 - [五. 远程及日常办公软件](#五-远程及日常办公软件)
   - [1. Teamviewer](#1-teamviewer)
+  - [2. VNC (PCNL可用)](#2-vnc-pcnl可用)
   - [2. Office](#2-office)
-  - [3. 在线视频下载器](#3-在线视频下载器)
+  - [3. youtube在线视频下载器](#3-youtube在线视频下载器)
+    - [网页端工具下载youtube视频](#网页端工具下载youtube视频)
+    - [命令行工具 pytube](#命令行工具-pytube)
   - [4. CSDN网站去广告](#4-csdn网站去广告)
   - [5. ToDesk](#5-todesk)
 - [总结](#总结)
@@ -120,7 +124,7 @@ iOS, Android, Windows,macOS, Linux全平台支持。
 ## 1.谷歌学术
 [https://scholar.google.com/](https://scholar.google.com/)
 
-谷歌学术镜像网站（免翻墙，强烈推荐!）
+另：panda321谷歌学术镜像网站（免翻墙，强烈推荐!）
 
 [https://sc.panda321.com/](https://sc.panda321.com/)
 
@@ -181,7 +185,7 @@ IEEE 文章官方检索
 
 [https://1lib.net/](https://1lib.net/)
 
-# 三. 文献管理工具
+# 三. 文献阅读管理工具
 ## 1. Mendeley
 免费开源的文献管理工具，支持全文pdf搜索，在线同步所有文档，空间2GB
 [https://www.mendeley.com/](https://www.mendeley.com/?interaction_required=true)
@@ -212,6 +216,24 @@ Currently support pdf pages in arxiv.org, aclweb.org/anthology/, proceedings.mlr
 3. 上arxiv网站使用save功能就可以自动改名保存
 ![左上角save](./img/autosave.png)
 
+## 5. readpaper.com
+
+“一群全球最聪明的人，做着全世界最先进的研究，解决着全世界最难的问题，却在用着在这个时代很落后的生产力工具。所以，我们想做一点改变”
+
+readpaper.com是一个专业、免费的学术社区，旨在为科研工作者提供各种好用的科研工具以及交流平台。
+
+目前（2022年5月）提供论文搜索，文献管理及阅读，学术交流功能。
+
+[https://readpaper.com/](https://readpaper.com/)
+
+2022年5月个人亲测体会：
+
+1. 简单：可完全基于网页使用，不用担心设备同步问题
+2. 易搜：全局式搜索，论文正文和个人笔记内容都可以一起搜
+3. 舒适：图表、参考文献预览及双向跳转功能
+4. 交流: 可以与其他人共享自己的笔记，也可看到其他人对论文内容的公开讨论
+
+
 # 四. 论文写作工具
 latex是一种学术论文写作工具，其优点是将内容脱离模板，使写作者可以专注到文章内容的创作中，简化公式编辑，参考文献添加删除的操作，比word写作效率要高很多。
 缺点是需要一点编程基础，新手上手需要一段时间的适应。
@@ -225,7 +247,9 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 [https://www.texpage.com/](https://www.texpage.com/)
 
 ## 2. 在线 latex 写作网站：overleaf（美国版）
-该网站服务器在美国，访问速度慢不稳定，但是北京市科技网访问还是很稳定的。优点是具有review功能，多人协同写作功能强。团队写作推荐。
+该网站服务器在美国，访问速度有时不稳定。优点是具有review功能，多人协同写作功能强。团队写作推荐。
+
+普通版好像只允许一个人协同编辑，可以在淘宝上花5块钱破解协同写作人数上限。
 
 [https://www.overleaf.com/](https://www.overleaf.com/)
 
@@ -251,12 +275,14 @@ latex是一种学术论文写作工具，其优点是将内容脱离模板，使
 
 免费的英文语法检查工具，对常见的冠词错误，单复数错误，单词拼写错误，标点符号错误，时态错误等均可检查。有两种使用方法，小段的英文可以用百度翻译+grammarly插件进行检查。大段的英文可以直接复制到grammarly官网进行全文检查。
 
+可在淘宝上购买Grammarly高级会员(每月二三十元)。
+
 [https://www.grammarly.com/](https://www.grammarly.com/)
 
 
 ## 6. 写作搭配
 
-查询英语词组常用搭配的网站(thanks 王乐源)
+查询英语词组常用搭配的网站
 
 [https://linggle.com/]( https://linggle.com/)
 
@@ -287,6 +313,8 @@ diagrams可以绘制一些简单的流程图，思维导图，矢量图。图片
 该网站也支持手动裁剪。下载裁剪好的pdf,导入在线latex编译即可。
 
 如果需要eps格式的矢量图，可以用Adobe Acrobat软件进行pdf->eps转换。
+
+Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg) 提取码：akll 
 
 pdf裁剪也可以通过Acrobat软件进行。
 
@@ -322,13 +350,13 @@ Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https:/
 
 # 五. 远程及日常办公软件
 
-## 1. Teamviewer
+常见的远程软件有Teamviewer, VNC, ToDesk, 向日葵，anydesk等.
 
-以前也用过向日葵，anydesk，最后还是都不如teamviewer.
+## 1. Teamviewer
 
 [https://www.teamviewer.com/en/download/windows/](https://www.teamviewer.com/en/download/windows/)
 
-唯一的问题就是容易被判定为商用，一般改一下MAC地址就好了。下边是改MAC的教程。
+老牌远程办公软件，但是容易被判定为商用，可通过改MAC地址解决。
 
 >1. 关闭TeamViewer。
 >2. 开始 > 运行，输入 %appdata%，删除TeamViewer的文件夹。
@@ -337,6 +365,11 @@ Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https:/
 >5. 控制面板 > 网络和Internet> 网络和共享中心 > 更改适配器设置 > 本地连接/无线网卡;单击右键 > 属性 > Microsoft 网络客户端 > 配置 > 高级；在数值栏输入一个和上文相近的MAC地址或随意12位数字字符串，点确定保存。
 >6. 重启电脑，你会发现你的 TeamViewer ID 已改变。成功！
 
+## 2. VNC (PCNL可用)
+
+VNC客户端(Virtual Network Computing，虚拟网络计算)是一套轻量型的远程控制计算机软件。VNC客户端主要由两个部分组成：VNC Server及VNC Viewer。VNC允许您访问和控制您的桌面应用程序，你可以用Windows电脑控制Linux系统或苹果的Mac OS，反之亦同。
+
+[https://www.realvnc.com/en/](https://www.realvnc.com/en/)
 
 ## 2. Office
 
@@ -349,11 +382,21 @@ Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https:/
 
 [OFFICE TOOLS PLUS](https://t66y.com/htm_data/2103/7/4370004.html)
 
-## 3. 在线视频下载器
+## 3. youtube在线视频下载器
 
-下载youtube的视频很方便
+### 网页端工具下载youtube视频
 
 [https://en.savefrom.net/18/](https://en.savefrom.net/18/)
+
+### 命令行工具 pytube
+
+pytube is a genuine, lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos
+
+使用方法很简单
+
+```
+pytube https://youtube.com/watch?v=2lAe1cqCOXo
+```
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
@@ -372,4 +415,4 @@ Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https:/
 [https://www.todesk.com/](https://www.todesk.com/)
 
 # 总结
-使用对的工具做事情能提高效率，事半功倍。希望本篇博文能对你的科研工作有帮助。
+使用对的工具做事情能提高效率，事半功倍。希望本篇博文能对你的科研工作有点帮助。
