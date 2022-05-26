@@ -39,15 +39,18 @@
   - [1. 文叔叔](#1-文叔叔)
   - [2. 奶牛快传](#2-奶牛快传)
   - [3.百度网盘下载工具PCS](#3百度网盘下载工具pcs)
-- [五. 远程及日常办公软件](#五-远程及日常办公软件)
+- [五. 远程软件](#五-远程软件)
   - [1. Teamviewer](#1-teamviewer)
   - [2. VNC (PCNL可用)](#2-vnc-pcnl可用)
+  - [3. ToDesk](#3-todesk)
+- [六. 日常办公](#六-日常办公)
+  - [1. OBS录屏软件](#1-obs录屏软件)
   - [2. Office](#2-office)
-  - [3. youtube在线视频下载器](#3-youtube在线视频下载器)
+  - [3. Typora （markdown文件编辑器）](#3-typora-markdown文件编辑器)
+  - [4. youtube在线视频下载器](#4-youtube在线视频下载器)
     - [网页端工具下载youtube视频](#网页端工具下载youtube视频)
     - [命令行工具 pytube](#命令行工具-pytube)
-  - [4. CSDN网站去广告](#4-csdn网站去广告)
-  - [5. ToDesk](#5-todesk)
+  - [5. CSDN网站去广告](#5-csdn网站去广告)
 - [总结](#总结)
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
@@ -214,7 +217,7 @@ Currently support pdf pages in arxiv.org, aclweb.org/anthology/, proceedings.mlr
 [https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname](https://greasyfork.org/en/scripts/370419-paperdownload-titleaspdfname)
 
 3. 上arxiv网站使用save功能就可以自动改名保存
-![左上角save](./img/autosave.png)
+<!-- ![左上角save](./img/autosave.png) -->
 
 ## 5. readpaper.com
 
@@ -226,12 +229,12 @@ readpaper.com是一个专业、免费的学术社区，旨在为科研工作者�
 
 [https://readpaper.com/](https://readpaper.com/)
 
-2022年5月个人亲测体会：
+2022年5月个人亲测：
 
 1. 简单：可完全基于网页使用，不用担心设备同步问题
 2. 易搜：全局式搜索，论文正文和个人笔记内容都可以一起搜
-3. 舒适：图表、参考文献预览及双向跳转功能
-4. 交流: 可以与其他人共享自己的笔记，也可看到其他人对论文内容的公开讨论
+3. 舒适：图表、参考文献预览及双向跳转功能 / 文档在线存储，免去文件改名和整理的烦恼
+4. 交流：可以与其他人共享自己的笔记，也可看到其他人对论文内容的公开讨论
 
 
 # 四. 论文写作工具
@@ -348,7 +351,7 @@ Acrobat 下载链接：[https://pan.baidu.com/s/15T2CeIIW3PFR_4OpMgDXgg](https:/
 
 如果充百度超级会员的话，建议在每年的11月份百度网盘周年庆的时候，价格大概也就170元/年。我用超级会员下载速度大概在10MB/S。
 
-# 五. 远程及日常办公软件
+# 五. 远程软件
 
 常见的远程软件有Teamviewer, VNC, ToDesk, 向日葵，anydesk等.
 
@@ -371,6 +374,20 @@ VNC客户端(Virtual Network Computing，虚拟网络计算)是一套轻量型�
 
 [https://www.realvnc.com/en/](https://www.realvnc.com/en/)
 
+## 3. ToDesk
+
+一款简单易用的多平台远程控制国产软件，稳定性好，且访问速度比TeamViewer快。
+
+[https://www.todesk.com/](https://www.todesk.com/)
+
+# 六. 日常办公
+
+## 1. OBS录屏软件
+
+上网课或者开腾讯会议的时候需要录屏，OBS开源软件是一个不错的选择。
+
+[https://obsproject.com/](https://obsproject.com/)
+
 ## 2. Office
 
 - WORD
@@ -378,11 +395,19 @@ VNC客户端(Virtual Network Computing，虚拟网络计算)是一套轻量型�
 - EXCEL
 - VISIO
 
-常用三件套 + 矢量化作图工具VISIO 正版激活只需要十几二十元统统可以在淘宝买到，链接就不放了。
+常用三件套 + 矢量化作图工具VISIO 正版激活只需要十几二十元可以在淘宝买到，链接就不放了。
+
+有edu教育邮箱的话也可以上微软官网申请免费的office365套装。
 
 [OFFICE TOOLS PLUS](https://t66y.com/htm_data/2103/7/4370004.html)
 
-## 3. youtube在线视频下载器
+## 3. Typora （markdown文件编辑器）
+
+最后一个免费开源版本0.11.18，之后的就收费了。
+
+[https://pan.baidu.com/s/1SuScOKZB2U_19FC0bsm_GQ?pwd=nmgk](https://pan.baidu.com/s/1SuScOKZB2U_19FC0bsm_GQ?pwd=nmgk) 提取码: nmgk
+
+## 4. youtube在线视频下载器
 
 ### 网页端工具下载youtube视频
 
@@ -400,7 +425,7 @@ pytube https://youtube.com/watch?v=2lAe1cqCOXo
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
-## 4. CSDN网站去广告
+## 5. CSDN网站去广告
 
 1. 安装油猴脚本管理器
 [https://greasyfork.org/zh-CN](https://greasyfork.org/zh-CN)
@@ -408,11 +433,8 @@ pytube https://youtube.com/watch?v=2lAe1cqCOXo
 3. 打开CSDN，广告消失。
 
 
-## 5. ToDesk
 
-一款简单易用的多平台远程控制国产软件，稳定性好，且访问速度比TeamViewer快。
-
-[https://www.todesk.com/](https://www.todesk.com/)
 
 # 总结
-使用对的工具做事情能提高效率，事半功倍。希望本篇博文能对你的科研工作有点帮助。
+
+使用对的工具做事情能提高效率，事半功倍。希望本篇博文能对你的科研工作有一点帮助。
