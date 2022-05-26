@@ -2,6 +2,8 @@
 @[ROSE](文章目录)
 - [前言](#前言)
 - [一、翻墙工具](#一翻墙工具)
+  - [TLY](#tly)
+  - [冲浪俱乐部](#冲浪俱乐部)
   - [蓝灯](#蓝灯)
   - [justmysocks2.net](#justmysocks2net)
   - [clash for windows](#clash-for-windows)
@@ -48,11 +50,29 @@
 
 # 前言
 
-工欲善其事必先利其器，这篇博客教你使用科研过程中常见软件工具，提高科研效率。
+工欲善其事，必先利其器。这篇博客给你提供科研过程中常见软件工具，提高科研效率。
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
 # 一、翻墙工具
 翻墙软件千千万，但墙也不断地在升级。经常会出现以前能用的方法现在失效了，所以遇到翻不过的时候不要着急，换条路子没准就管用。
+
+## TLY
+
+[https://tly70.com/zh/](https://tly70.com/zh/)
+
+Windows、Mac、iOS、Android 提供有专用客户端软件，无需手动配置，下载软件运行即可使用。
+
+免费版每月大约5-7GB流量，收费版每月4.8美金，每年33.8美金。
+
+## 冲浪俱乐部
+
+[https://vip01234.com/account](https://vip01234.com/account)
+
+iOS, Android, Windows,macOS, Linux全平台支持。
+
+连接稳定，每年大约200元人民币。
+
+但属于邀请制注册，可填邀请码（5uj2NfBz4c）。
 
 ## 蓝灯
 
@@ -99,6 +119,10 @@
 # 二、文献检索工具
 ## 1.谷歌学术
 [https://scholar.google.com/](https://scholar.google.com/)
+
+谷歌学术镜像网站（免翻墙，强烈推荐!）
+
+[https://sc.panda321.com/](https://sc.panda321.com/)
 
 附一条：
 添加latex参考文献的方法，搜索paper题目，点击cite按钮，选择bibtex，将全部信息复制后，粘贴到在线latex网站的bib文件里。
